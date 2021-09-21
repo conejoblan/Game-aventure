@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap Portfolio Page Template</title>
+    <!-- Bootstrap -->
+    <link href="../../css/bootstrap-4.0.0.css" rel="stylesheet">
+    <style type="text/css">
+    body,td,th {
+	color: #FF0000;
+}
+body {
+	background-image: url(imagenes/flores-de-color-azul,-fondo-azul-214231.jpg);
+}
+a:link {
+	color: #2B0102;
+}
+a:hover {
+	color: #2B0102;
+}
+    </style>
+  </head>
+  <body>
+	  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <div class="container">
+        <a class="navbar-brand" href="INICIO-1.html"><img src="imagenes/7w7.png" width="244" height="65" class="img-fluid"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Ofertas</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="coleccionista-1.html">Coleccionista</a>
+                <a class="dropdown-item" href="ofertas -1.html">Juegos</a>
+				 <a class="dropdown-item d-lg-none d-xl-block" href="#">Ediciones especiales </a>
+                <a class="dropdown-item" href="consolas-1.html">Consolas </a>
+                
+              </div>
+            </li>
+           
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contáctanos</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="#">ayuda</a>
+                <a class="dropdown-item d-lg-none d-xl-block" href="#">reclamo</a>
+				<a class="dropdown-item" href="#"></a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="QUIENES SOMOS -1.html">quienes somos</a>
+              </div>
+            </li>
+            
+          </ul>
+          <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="buscador v:" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">buscar</button>
+          </form>
+        </div>
+      </div>
+    </nav>
+<section> </section>
+    <section>
+      <div class="container">
+        <div class="row">
+          <div class="col-12 text-center">
+            <h1>CONSOLAS</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, magni, doloribus, possimus eum sapiente deleniti doloremque fugit ut expedita molestiae iusto debitis eveniet modi obcaecati ipsam quos quis labore dicta.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section>
+      <div class="container mt-2">
+        <div class="row">
+          <div class="col-md-4 col-12">
+            <ul class="list-unstyled">
+              <li class="media">
+                <img src="imagenes/playsations.jpg" alt="Generic placeholder image" width="50" class="mr-3">
+                <div class="media-body">
+                  <h5 class="mt-0 mb-1">PLAYSTATIONS</h5>
+ </div>
+              </li>
+            </ul>
+          </div>
+          <div class="col-md-4 col-12">
+            <ul class="list-unstyled">
+              <li class="media">
+                <img src="imagenes/xbox.gif" alt="Generic placeholder image" width="50" class="mr-3">
+                <div class="media-body">
+                  <h5 class="mt-0 mb-1">XBOX</h5>
+ </div>
+              </li>
+            </ul>
+          </div>
+          <div class="col-md-4 col-12">
+            <ul class="list-unstyled">
+              <li class="media">
+                <img src="imagenes/cuenta-nintendo.jpg" alt="Generic placeholder image" width="50" class="mr-3">
+                <div class="media-body">
+                  <h5 class="mt-0 mb-1">NITENDO SWICHT</h5>
+ </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section>
+      <div class="container">
+        <div class="row">
+          <div class="col-12 text-center">
+            <h2>PAQUETES DE CONSOLAS </h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia, et, placeat !</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6 col-12 text-center">
+            <img src="ediciones delux o coleccionista/00071171951890l.jpg" alt="" width="400" class="img-fluid">
+            <h4>PLAYSTATIONS 4</h4>
+            <h6>Lorem ipsum dolor sit amet, consectetur elit</h6>
+          </div>
+          <div class="col-md-6 col-12 text-center mt-md-0 mt-2">
+            <img src="ediciones delux o coleccionista/2820013.jpg" alt="" width="400" class="img-fluid">
+            <h4>XBOX</h4>
+            <h6>Lorem ipsum dolor sit amet, consectetur elit</h6>
+          </div>
+        </div>
+        <div class="row mt-2">
+          <div class="col-md-3 col-6"><img src="ediciones delux o coleccionista/Resident-Evil-2-Collectorâ€™s-Edition.jpg" alt="" width="200" class="img-fluid float-right"></div>
+          <div class="col-md-3 col-6"><img src="ediciones delux o coleccionista/Gamer-Kit-DreamgearGaming-Playstation4-Negro-dotomexico_10.jpg" alt="" width="200" class="img-fluid float-left"></div>
+          <div class="col-md-3 col-6 mt-md-0 mt-1"><img src="ediciones delux o coleccionista/ae66433a-5e82-47f9-98b7-87cb5e4f2374_5.60671ebd7c980769f87da9a68b6ceff7.png" alt="" width="200" class="img-fluid float-right"></div>
+          <div class="col-md-3 col-6 mt-md-0 mt-1"><img src="ediciones delux o coleccionista/91CuM+-RweL._SX522_.jpg" alt="" width="200" class="img-fluid float-left"></div>
+        </div>
+        <hr>
+</div>
+    </section>
+    <hr>
+    <section>
+      <div class="container">
+        <div class="row">
+          <div class="col-12 text-center">
+            <h1>Lorem ipsum dolor sit amet</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, magni, doloribus, possimus eum sapiente deleniti doloremque fugit ut expedita molestiae iusto debitis eveniet modi obcaecati ipsam quos quis labore dicta.</p>
+            <button type="button" class="btn btn-success">Get in touch</button>
+          </div>
+        </div>
+      </div>
+    </section>
+    <hr>
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4 col-12">
+            <h3 class="text-center">WHO WE ARE</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus, ducimus, sit, quibusdam quidem recusandae veniam eos quod error nisi repellat excepturi laboriosam aspernatur suscipit possimus consectetur dolores nihil labore quas eius illo accusamus nulla sed blanditiis porro accusantium. Perspiciatis, perferendis!</p>
+          </div>
+          <div class="col-md-4 col-12">
+            <h3 class="text-center">GET IN TOUCH</h3>
+            <address class="text-center">
+              <strong>MyCompany, Inc.</strong><br>
+              Sunny Autumn Plaza, Grand Coulee,<br>
+              CA, 91308-4075, US<br>
+              <abbr title="Phone">P:</abbr> (123) 456-7890
+            </address>
+          </div>
+          <div class="col-md-4 col-12">
+            <h3 class="text-center">NEWSLETTER</h3>
+            <form>
+              <div class="form-group col-12">
+                <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+                <button type="submit" class="btn btn-dark mt-2">Subscribe</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <footer class="text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <p>Copyright © MyCompany. All rights reserved.</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="../../js/jquery-3.2.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../../js/popper.min.js"></script>
+    <script src="../../js/bootstrap-4.0.0.js"></script>
+  </body>
+</html>

@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap Real Estate Page Template</title>
+    <!-- Bootstrap -->
+    <link href="../../css/bootstrap-4.0.0.css" rel="stylesheet">
+    <style type="text/css">
+    body {
+	background-image: url(imagenes/flores-de-color-azul,-fondo-azul-214231.jpg);
+	background-color: #FFFFFF;
+}
+    body,td,th {
+	color: #FF0000;
+}
+    a:link {
+	color: #2B0102;
+}
+    a:visited {
+	color: #2B0102;
+}
+a:hover {
+	color: #2B0102;
+}
+a:active {
+	color: #2B0102;
+}
+    </style>
+</head>
+  <body>
+	  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <div class="container">
+        <a class="navbar-brand" href="INICIO-1.html"><img src="imagenes/7w7.png" width="244" height="65" class="img-fluid"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Ofertas</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="coleccionista-1.html">Coleccionista</a>
+                <a class="dropdown-item" href="ofertas -1.html">Juegos</a>
+				 <a class="dropdown-item d-lg-none d-xl-block" href="#">Ediciones especiales </a>
+                <a class="dropdown-item" href="consolas-1.html">Consolas </a>
+                
+              </div>
+            </li>
+           
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contáctanos</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="#">ayuda</a>
+                <a class="dropdown-item d-lg-none d-xl-block" href="#">reclamo</a>
+				<a class="dropdown-item" href="#"></a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="QUIENES SOMOS -1.html">quienes somos</a>
+              </div>
+            </li>
+            
+          </ul>
+          <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="buscador v:" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">buscar</button>
+          </form>
+        </div>
+      </div>
+    </nav>
+<section>
+  <div class="container"> </div>
+    </section>
+	  <section>
+  <div class="container">
+        <div class="row">
+<div class="col-lg-4 col-md-6 col-12"> </div>
+          <div class="col-lg-4 d-md-none d-lg-block"> </div>
+    </div>
+      </div>
+    </section>
+<hr>
+<hr>
+    <section>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-12">
+            <h3>NUEVAS COLECCIONES V:</h3>
+            <hr>
+            <div class="row">
+              <div class="col-4">
+                <div class="text-center"> <img src="ediciones delux o coleccionista/2820013.jpg" alt="Thumbnail Image 1" width="200"> </div>
+              </div>
+              <div class="col-4">
+                <div class="text-center"> </div>
+              </div>
+              <div class="col-4">
+                <div class="text-center"> </div>
+              </div>
+            </div>
+            <hr>
+            <div class="row">
+              <div class="col-4">
+                <div class="text-center"> <img src="ediciones delux o coleccionista/46769726911_a9b229bef5_h-750x450.jpg" alt="Thumbnail Image 1" width="250"></div>
+              </div>
+              <div class="col-4"> </div>
+              <div class="col-4"> </div>
+            </div>
+            <hr>
+            <div class="row">
+              <div class="col-4">
+                <div class="text-center"> <img src="ediciones delux o coleccionista/00071171951890l.jpg" alt="Thumbnail Image 1" width="250"></div>
+              </div>
+              <div class="col-4">
+                <div class="text-center"> </div>
+              </div>
+              <div class="col-4">
+                <div class="text-center"> </div>
+              </div>
+            </div>
+            <hr>
+          </div>
+          <div class="col-md-6 col-12">
+            <h3><em><strong>COLECCIONES</strong></em></h3>
+            <nav>
+              <div class="nav nav-tabs" id="nav-tab" role="tablist"><a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">paquete 1</a> <a class="nav-item nav-link" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">paquete 2</a> <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-contact" aria-selected="false">paquete 3</a></div>
+            </nav>
+            <div class="tab-content" id="nav-tabContent">
+              <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                <p class="text-center mt-2"><img src="imagenes/81jJFjbIH5L._SX522_.jpg" alt="" width="450" height="150"></p>
+                <p>LA COLECCION COSTA DE UN POSTED DEL JUEGO MAS UNA COPIA DEL MISMO CON UN DLC Y DOS POSTER CONMEMORATIVOS DEL JUEGO MAS UNA FIDURA DE ACCION Y VARIOS ESTIKERS Y CON UN CUADERNO  </p>
+              </div>
+              <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+                <p class="text-center mt-2"><img src="imagenes/91CuM+-RweL._SX522_.jpg" alt="" width="450" height="150"></p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus maxime aut ea impedit voluptates aperiam dolor laborum officiis autem aspernatur! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, alias, repudiandae sunt illo consequatur aperiam doloribus nesciunt ut deserunt ipsa est tempora nihil. Totam eveniet aperiam debitis fugit ipsa doloremque. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio sequi dolorem suscipit assumenda molestiae voluptatem qui consequuntur magni? Deleniti, corporis.</p>
+              </div>
+              <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
+                <p class="text-center mt-2"><img src="imagenes/91SEeitXxfL._SX679_.jpg" alt="" width="450" height="150"></p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus maxime aut ea impedit voluptates aperiam dolor laborum officiis autem aspernatur! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, alias, repudiandae sunt illo consequatur aperiam doloribus nesciunt ut deserunt ipsa est tempora nihil. Totam eveniet aperiam debitis fugit ipsa doloremque. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio sequi dolorem suscipit assumenda molestiae voluptatem qui consequuntur magni? Deleniti, corporis.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <hr>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-12">
+          <div class="row">
+            <div class="col-lg-6 col-12">
+              <h3>About Us</h3>
+              <hr>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, consequatur neque exercitationem distinctio esse! Cupiditate doloribus a consequatur iusto illum eos facere vel iste iure maxime. Velit, rem, sunt obcaecati eveniet id nemo molestiae. In.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, consequatur neque exercitationem distinctio esse! Cupiditate doloribus a consequatur iusto illum eos facere vel iste iure maxime. Velit, rem, sunt obcaecati eveniet id nemo molestiae. In.</p>
+            </div>
+            <div class="col-lg-6 col-12">
+              <h3>NUEVAS CONSOLAS </h3>
+              <hr>
+              <div>
+            <div class="media">
+              <div class="media-body">
+                <h4 class="mt-0 mb-1">Heading 1</h4>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, quod temporibus veniam deserunt deleniti accusamus voluptatibus at illo sunt quisquam. </div>
+              <a href="#"><img src="ediciones delux o coleccionista/2820013.jpg" alt="placeholder image" width="100" class="ml-3"></a> </div>
+            <div class="media">
+              <div class="media-body">
+                <h4 class="mt-0 mb-1">Heading 2</h4>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, iure nemo earum quae aliquid animi eligendi rerum rem porro facilis. </div>
+              <a href="#"><img src="ediciones delux o coleccionista/Gamer-Kit-DreamgearGaming-Playstation4-Negro-dotomexico_10.jpg" alt="placeholder image" width="100" class="ml-3"></a> </div>
+          </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 col-12 mt-md-0 mt-2">
+          <h3>Contact Us</h3>
+          <hr>
+          <address>
+            <strong>MyStoreFront, Inc.</strong><br>
+            Indian Treasure Link<br>
+            Quitman, WA, 99110-0219<br>
+            <abbr title="Phone">P:</abbr> (123) 456-7890
+          </address>
+          <address>
+            <strong>Full Name</strong><br>
+            <a href="mailto:#">first.last@example.com</a>
+          </address>
+        </div>
+      </div>
+    </div>
+    <footer class="text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <p>Copyright © MyWebsite. All rights reserved.</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="../../js/jquery-3.2.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../../js/popper.min.js"></script>
+    <script src="../../js/bootstrap-4.0.0.js"></script>
+  </body>
+</html>
